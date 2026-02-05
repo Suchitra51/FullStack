@@ -1,7 +1,7 @@
 # FullStack
-I am using this repository to practice full-stack development and store all my experiments and learnings.
+I am using this repository to practice full-stack development and store all my experiments and learnings. 
 <br>
-**Author- Suchitra Panigrahi**
+**Author- Suchitra Panigrahi** <br>
 <br>
 **1st Experiment**: Created a Single Page Application using React that dynamically upadates the UI without page reload.
 <br>
