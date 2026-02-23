@@ -13,5 +13,6 @@ I am using this repository to practice full-stack development and store all my e
 **3rd Experiment**: a) Designed a basic Client-Side Routing using React Router <br>
                     b) Created a navigation link using spa <br>
                     c) Created a multi-page spa <br>
-                    d) Created a default fallback spa <br>
-**4th Experiment**: This experiment demonstrates how to use React Context API to manage global state like theme switching and authentication, avoiding prop drilling and making the application scalable.
+                    d) Created a default fallback spa <br> <br>
+**4th Experiment**: This experiment demonstrates how to use React Context API to manage global state like theme switching and authentication, avoiding prop drilling and making the
+                    application scalable.
