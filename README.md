@@ -14,4 +14,4 @@ I am using this repository to practice full-stack development and store all my e
                     b) Created a navigation link using spa <br>
                     c) Created a multi-page spa <br>
                     d) Created a default fallback spa <br>
-
+**4th Experiment**: This experiment demonstrates how to use React Context API to manage global state like theme switching and authentication, avoiding prop drilling and making the application scalable.
