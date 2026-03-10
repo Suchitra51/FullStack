@@ -1,0 +1,97 @@
+/* PAGE BACKGROUND */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(135deg, #eef2f7, #d9e2ec);
+  margin: 0;
+}
+
+/* MAIN CONTAINER */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+}
+
+/* FORM CARD */
+
+.form-card {
+  width: 420px;
+  background: white;
+  padding: 30px;
+  margin-bottom: 35px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+/* HEADINGS */
+
+h2 {
+  margin-bottom: 20px;
+}
+
+/* INPUTS */
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* TEXTAREA */
+
+textarea {
+  resize: none;
+}
+
+/* BUTTON */
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+/* SECONDARY BUTTON */
+
+button[type="button"] {
+  background: #6b7280;
+}
+
+button[type="button"]:hover {
+  background: #4b5563;
+}
+
+/* SKILL ROW */
+
+.skill-row {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.skill-row input {
+  flex: 1;
+}
+
+/* IMAGE PREVIEW */
+
+img {
+  margin-top: 10px;
+  border-radius: 6px;
+}
