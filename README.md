@@ -15,4 +15,6 @@ I am using this repository to practice full-stack development and store all my e
                     c) Created a multi-page spa <br>
                     d) Created a default fallback spa <br> <br>
 **4th Experiment**: This experiment demonstrates how to use React Context API to manage global state like theme switching and authentication, avoiding prop drilling and making the
-                    application scalable.
+                    application scalable. <br> <br>
+**5th Experiment**: This experiment demonstrates how to set up a React application using Vite, understand its project structure, configure development tools like ESLint, and utilize Hot Module Replacement for efficient development.                   
+                    
